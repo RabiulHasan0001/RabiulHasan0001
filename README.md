@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Rabiul Hasan.I am currently learning Deep Learning and AI. I am very much optimistic about future .I think a great number of human probleams can be solved using ML and AI.
 
-<!--
 **RabiulHasan0001/RabiulHasan0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
