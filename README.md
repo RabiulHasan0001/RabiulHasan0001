@@ -48,13 +48,15 @@ a manner to make it integratable and optimizable for evryone could use it.</b>
 
 **LANGUAGES AND TOOLS** 
 
-<code><img height="30" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-html-file-document-icon-png-image_4166289.jpg"></code>
 <code><img height="30" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-css-file-document-icon-png-image_4187768.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 </br>
 </body>
