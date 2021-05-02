@@ -2,8 +2,8 @@
 
 
 # Hey Folks
-<img src="https://user-images.githubusercontent.com/73035328/116822127-9c9b9300-abaf-11eb-893d-1d02cf03bf58.png" width="900">
 <html>
+<img align="right" src="https://user-images.githubusercontent.com/73035328/116823654-3ff0a600-abb8-11eb-9c5e-f08c49f56823.png">
   
   <body>
     </br>
