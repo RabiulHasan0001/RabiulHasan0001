@@ -13,9 +13,9 @@
 
 <p>
 I am very much optimistic about future.I think a great number of problems can be solved using ML and AI.
-<h1> What i am looking here? </h1>
+<h2> What i am looking here? </h2>
 <i>
-<b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. taking these kind of valuable knowledge i could contribute in  not to just split features or working on some of the features rather than building, i would make my efforts in such 
+<b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. Taking these kind of valuable knowledge I could contribute in  not to just split features or working on some of the features rather than building, I would make my efforts in such 
 a manner to make it integratable and optimizable for evryone could use it.</b>
 </i>
 
