@@ -1,7 +1,7 @@
 
 
 <html>
-<img align="right" width="250px" height="250px" src="https://user-images.githubusercontent.com/73035328/116823654-3ff0a600-abb8-11eb-9c5e-f08c49f56823.png">
+<img align="right" width="200px" height="200px" src="https://user-images.githubusercontent.com/73035328/116823654-3ff0a600-abb8-11eb-9c5e-f08c49f56823.png">
   
   <body>
     </br>
@@ -18,13 +18,7 @@ I am very much optimistic about future.I think a great number of problems can be
 <b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. taking these kind of valuable knowledge i could contribute in  not to just split features or working on some of the features rather than building, i would make my efforts in such 
 a manner to make it integratable and optimizable for evryone could use it.</b>
 </i>
-### Experience:
-1. Data Science & Business Analytics Intern
-    * [The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
-    * period [April,2021 -May,2021]
-2. Machine Learning Intern
-    * [DevIncept](https://devincept.tech/)
-    * Period[May,2021 - Present]
+
 
 <br>**Talking about Personal Stuffs:**</br>
 <h3> Details :::>>></h3>
@@ -47,7 +41,7 @@ a manner to make it integratable and optimizable for evryone could use it.</b>
 
 <br>
 
-<a href="www.linkedin.com/in/md-rabiul-hasan-55452416a">
+<a href="https://www.linkedin.com/in/md-rabiul-hasan-55452416a/">
 <img align="left" alt="rabiul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="44" height="44">
 </a>
 
