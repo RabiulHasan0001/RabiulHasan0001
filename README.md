@@ -12,28 +12,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiulhasan0001&label=Profile%20views&color=0e75b6&style=flat" alt="rabiulhasan0001" /> </p>
 
 <p>
-I am very much optimistic about future.I think a great number of problems can be solved using ML and AI.
-<h2> What i am looking here? </h2>
-<i>
-<b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. Taking these kind of valuable knowledge I could contribute in  not to just split features or working on some of the features rather than building, I would make my efforts in such 
-a manner to make it integratable and optimizable for evryone could use it.</b>
-</i>
-
+Passionate about the boundless potential of the future, I envision addressing myriad challenges through the realms of Machine Learning and Artificial Intelligence. Currently, I'm working on two projects with Professor A.B.M. Awlad Hossain. In one, I'm creating a smart system to identify Alzheimer's Disease using brain MRI data, using Resnet152v2 and DenseNet201 CNN architectures. In the other project, I'm part of a team predicting diabetes with machine learning. Join me on this journey where we use smart solutions to make a positive impact on our world.
 
 <br>**Talking about Personal Stuffs:**</br>
 <h3> Details :::>>></h3>
 
-- 🔭 I’m currently studying on **Electronics and Communication Engineering**
+- 🔭 I have completed my **Bachelor of Science** on **Electronics and Communication Engineering** at **Khulna University of Engineering & Technology**
 
-- 🌱 I’m currently studing at **Khulna University of Engineering & Technology**
-
-- 👯 I’m looking to collaborate on **Machine Learning and AI related Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI related Projects**
 
 - 👨‍💻 Ask me about **Machine Learning**
 
-- 📫 My Email is **mdrabiulhasanrabiul020@gmail.com**
+- 📫 My Email is **mdrabiulhasan7890@gmail.com**
 
-- ⚡ Fun fact **I am not an alian.**
+- ⚡ Fun fact **I am not an alien.**
 
 <br>
 - 📫 How to reach me:
