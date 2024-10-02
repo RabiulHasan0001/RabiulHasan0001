@@ -17,11 +17,11 @@ Passionate about the boundless potential of the future, I envision addressing my
 <br>**Talking about Personal Stuffs:**</br>
 <h3> Details :::>>></h3>
 
-- 🔭 I have completed my **Bachelor of Science** on **Electronics and Communication Engineering** at **Khulna University of Engineering & Technology**
+- 🔭 I am pursuing a **Master of Science** in **Computer Science and Engineering** at the **niversity of Oulu**. Previously, I earned a **Bachelor of Science** in **Electronics and Communication Engineering** from **Khulna University of Engineering & Technology**.
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI related Projects**
 
-- 👨‍💻 Ask me about **Machine Learning**
+- 👨‍💻 Ask me about **Machine Learning**,**Computer Vision**,**Image Processing**
 
 - 📫 My Email is **mdrabiulhasan7890@gmail.com**
 
